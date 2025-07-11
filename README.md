@@ -54,7 +54,7 @@ El script te guiará a través de la siguiente información:
 4. **Contraseña SYS**: Elegir de opciones seguras predefinidas o crear personalizada
 5. **Tamaño de Memoria**: Asignación de memoria para la instancia (por defecto: 2G)
 
-### Sesión de Ejemplo
+### Ejecución de Ejemplo
 
 ```
 ===============================================
