@@ -15,7 +15,7 @@ Script automatizado para preparar instancias de base de datos Oracle para recupe
 ## 📋 Requerimientos
 
 - **Sistema Operativo**: Linux (RHEL, OEL, CentOS)
-- **Software Oracle**: Oracle Database instalado (12c, 18c, 19c)
+- **Software Oracle**: Oracle Database instalado 
 - **Software Veeam**: 
   - Veeam Backup & Replication (con licencia para plugin Oracle RMAN)
   - Veeam Plugin for Oracle RMAN instalado en el servidor destino
