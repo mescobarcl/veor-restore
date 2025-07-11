@@ -27,7 +27,7 @@ Script automatizado para preparar instancias de base de datos Oracle para recupe
 
 ## 🔧 Instalación
 
-1. Clonar o descargar el script:
+1. Descargar el script:
 ```bash
 wget https://github.com/mescobarcl/veor-restore/raw/master/prepare-restore-veor.sh
 ```
