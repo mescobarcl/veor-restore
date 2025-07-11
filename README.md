@@ -20,9 +20,10 @@ Script automatizado para preparar instancias de base de datos Oracle para recupe
   - Veeam Backup & Replication (con licencia para plugin Oracle RMAN)
   - Veeam Plugin for Oracle RMAN instalado en el servidor destino
 - **Usuario**: Debe ejecutarse como usuario `oracle`
-- **Conocimientos Requeridos**: 
+- **Datos Requeridos**: 
   - DBID de la base de datos original
   - Acceso al repositorio de backup de Veeam
+  - Token de Recuperación del backup
 
 ## 🔧 Instalación
 
